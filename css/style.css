@@ -89,7 +89,7 @@
     color:#9E9E9E;
 }
 .introduce-contents-background {
-  background-image: url("./image/bg-tile.png");
+  background-image: url("../image/bg-tile.png");
 }
 .mywork-introduce{
   background-color:#2B3040;
@@ -150,7 +150,7 @@ margin: auto;
   margin-bottom: 35px;
 }
 .photograpy-box{
-  background-image: url("./image/bg-tile.png");
+  background-image: url("../image/bg-tile.png");
   text-align: center;
   color:#FFFFFF;
   padding: auto;
